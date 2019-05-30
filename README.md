@@ -14,6 +14,37 @@ After completing this lesson, you will be able to:
 * Activating Theme and Plugins.
 * Create backups and setup the WordPress in few minutes.
 
+## Target Audience
+
+Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
+
+* [ ] Users
+* [ ] Designers
+* [X] Developers
+* [ ] Speakers
+* [ ] All
+
+## Experience Level
+
+How much experience would a participant need to get the most from this lesson?
+
+* [x] Beginner
+* [x] Intermediate
+* [x] Advanced
+* [x] Any
+
+## Type of Instruction
+
+Which strategies will be used for this lesson plan? Choose all that apply.
+
+* [X] Demonstration
+* [ ] Discussion
+* [X] Exercises
+* [ ] Feedback
+* [x] Lecture (Presentation)
+* [x] Show & Tell
+* [ ] Tutorial
+
 
 ## Prerequisite Requirements
 
